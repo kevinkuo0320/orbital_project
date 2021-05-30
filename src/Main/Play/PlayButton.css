@@ -1,0 +1,20 @@
+.play_button {
+    width: 300px;
+    height: 100px;
+    font: inherit;
+    cursor: pointer;
+    border: 3px solid rgb(76, 143, 70);
+    background-color: rgb(213, 214, 212);
+    border-radius: 12px;
+    text-align: center;
+    align-items: center;
+  }
+  
+  .play_button:hover {
+    color: rgba(255, 255, 255, 0.932);
+    border: 3px solid rgb(76, 143, 70);
+    background-color: rgb(76, 143, 70);
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24),
+      0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  }
+  
